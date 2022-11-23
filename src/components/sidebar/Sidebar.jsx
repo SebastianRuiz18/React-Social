@@ -56,7 +56,7 @@ export default function Sidebar() {
           </li>
         </ul>
         <button className="sidebarButton">
-          Show More
+          Mostrar Más
         </button>
         <hr className="sidebarHr"/>
         <ul className="sidebarFriendList">
